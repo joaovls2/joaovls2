@@ -49,8 +49,7 @@
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaovls2&theme=react&show_icons=true&hide_border=true&count_private=true)
-  <img height=200 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovls2&layout=compact&font=Iosevka&langs_count=16&theme=react"/>
+  
   <br>
   <br>
   <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaovls2&theme=react"/>
