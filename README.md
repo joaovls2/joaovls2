@@ -8,7 +8,7 @@
 
 **`Desenvolvedor Backend`**
 
-🧑🏽 Me chamo João Victor, tenho 19 anos e estou no 1o período de ADS na FICR. Sou um desevolvedor backend em constante desenvolvimento, focando e me aprofundando na linguagem Java.
+🧑🏽 Me chamo João Victor, tenho 20 anos e estou no 2o período de ADS na FICR. Sou um desevolvedor backend em constante desenvolvimento, focando e me aprofundando na linguagem Java.
 
 ---
 
