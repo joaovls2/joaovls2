@@ -49,7 +49,7 @@
 
 <div align="center">
 
-  <img align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api?username=joaovls2&theme=react&show_icons=true&hide_border=true&count_private=true"/>
+  <img align="center" alt="Top Language" src="https://streak-stats.demolab.com?user=joaovls2&theme=react&hide_border=true"/>
   <br>
   <br>
   <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaovls2&theme=react"/>
