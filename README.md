@@ -61,11 +61,11 @@
 
   <img    
       align="left" 
-      alt="C" 
-      title="C"
+      alt="C++" 
+      title="C++"
       width="30px" 
-      style="padding-right: 5px;" 
-      src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" 
+      style="padding-right: 10px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
     />
   
   <img    
