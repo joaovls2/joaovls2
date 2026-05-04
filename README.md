@@ -6,7 +6,7 @@
 
 ---
 
-**`Desenvolvedor Backend`**
+**`Desenvolvedor de Software`**
 
 👨🏻 Me chamo João Victor, tenho 20 anos e estou no 2o período de ADS na FICR. Sou um desevolvedor de software em constante desenvolvimento, focando e me aprofundando no ecossistema do Java.
 
