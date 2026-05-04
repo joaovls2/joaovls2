@@ -65,7 +65,7 @@
       title="C"
       width="30px" 
       style="padding-right: 10px;" 
-      src="https://img.icons8.com/?size=100&id=shQTXiDQiQVR&format=png&color=000000" 
+      src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" 
     />
   
   <img    
